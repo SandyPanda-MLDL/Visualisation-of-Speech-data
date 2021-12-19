@@ -18,3 +18,5 @@ Visualisation of speech data
 2) seaborn
 # Notebook link
 https://colab.research.google.com/drive/1sXQxhnabFAo6Mf-VFoW8wMqDyMWy7neW?usp=sharing
+
+Explained the code in my medium article : https://medium.com/@sandipandhar_6564/visualization-of-speech-data-f6504af6096c
