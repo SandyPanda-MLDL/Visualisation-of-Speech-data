@@ -7,3 +7,12 @@ Visualisation of speech data
 5) Then I have shown the Spectrogram Generation of the speech data
 6) I have also shown the pitch contours of the spectrogram using Parselmouth python library
 7) Finally I have shown the F0 fundamental frequency plot and harmonic spectral envelope (smoothed spectrogram) using WORLD analysis
+# Python libraries that I have used
+For speech analysis
+1) librosa
+2) parselmouth
+3) pyworld
+4) pysptk
+For visualisation
+1) matplotlib
+2) seaborn
