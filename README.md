@@ -16,7 +16,7 @@ Visualisation of speech data
 # For visualisation
 1) matplotlib
 2) seaborn
-#Github personal repository update
+# Github personal repository update
 1) git clone
 2) cd to the folder
 3) git init
