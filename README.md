@@ -16,6 +16,15 @@ Visualisation of speech data
 # For visualisation
 1) matplotlib
 2) seaborn
+#Github personal repository update
+1) git clone
+2) cd to the folder
+3) git init
+4) git add <folder1> <folder2>... (git rm for remove)
+5) git remote add origin https://github.com//.......git
+6) git push -u origin
+7) git push origin 
+
 # Notebook link
 https://colab.research.google.com/drive/1sXQxhnabFAo6Mf-VFoW8wMqDyMWy7neW?usp=sharing
 
